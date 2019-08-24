@@ -15,7 +15,7 @@ const start = async (srv) => {
   const swaggerOptions = {
     info: {
       title: 'Microservice Documentation',
-      version: 1,
+      version: '1',
     },
   };
 
